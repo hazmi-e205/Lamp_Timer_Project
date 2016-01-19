@@ -1,0 +1,4 @@
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\bin\x86\Debug\Lamp Timer.exe.config
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\x86\Debug\Lamp_Timer.Form1.resources
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\x86\Debug\Lamp_Timer.Resources.resources
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\x86\Debug\Lamp Timer.vbproj.GenerateResource.Cache

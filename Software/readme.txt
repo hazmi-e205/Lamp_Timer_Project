@@ -1,0 +1,1 @@
+untuk setting alat dan server

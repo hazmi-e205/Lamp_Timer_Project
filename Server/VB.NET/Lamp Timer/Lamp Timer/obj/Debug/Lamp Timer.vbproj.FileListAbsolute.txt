@@ -1,0 +1,23 @@
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.exe.config
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.exe
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.pdb
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.xml
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\bin\Debug\MySql.Data.dll
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.vbprojResolveAssemblyReference.cache
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\obj\Debug\Lamp_Timer.Form1.resources
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\obj\Debug\Lamp_Timer.Resources.resources
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.vbproj.GenerateResource.Cache
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.exe
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.xml
+c:\users\labkomtf e205 its\documents\visual studio 2015\Projects\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.pdb
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.exe.config
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.exe
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.xml
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.pdb
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.vbprojResolveAssemblyReference.cache
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.exe
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.pdb
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\bin\Debug\Lamp Timer.xml
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\Debug\Lamp_Timer.Form1.resources
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\Debug\Lamp_Timer.Resources.resources
+H:\dataku\kuliah\LJ_Semester_1\Workshop Antarmuka\Project\Lamp Timer\Lamp Timer\obj\Debug\Lamp Timer.vbproj.GenerateResource.Cache
